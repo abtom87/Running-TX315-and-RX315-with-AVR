@@ -8,7 +8,6 @@
 #define SYNC            0xAA
 #define RX_ADDR         0x21
 #define LED_ON          0x11
-#define LED_OFF         0x22
 
 typedef enum state_t{LOW,HIGH}state;
 typedef enum press_t{NOT_PRESSED, PRESSED}press_state;
